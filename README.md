@@ -1,1 +1,2 @@
-# newAi
+Project Description
+This project uses geospatial data science and machine learning to identify new target areas for the exploration of critical and strategic minerals such as REEs, Ni-PGE, copper, gold, and uranium across a 39,000 sq. km region in Karnataka and Andhra Pradesh, India. By integrating multi-layered geoscience datasets — including stream sediment geochemistry, geological maps, aerogeophysical data, and remote sensing imagery — we apply supervised ML models (e.g., Random Forest) to generate mineral prospectivity maps. The final output highlights concealed and deep-seated mineralized zones, supported by AI predictions, spatial visualizations, and mineral probability heatmaps.
